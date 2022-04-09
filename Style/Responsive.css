@@ -1,0 +1,53 @@
+@media screen and (max-width:1000px){
+        header .container{
+        font-size: 90%;
+    }
+    .logo{
+        font-size: 90%;
+        /*-webkit-text-size-adjust: 100%;*/
+    }
+    .filme-principal{
+        height: 90%;
+    }
+    .filme-principal .container{
+        font-size: 90%;
+    }
+    h3{
+        font-size: 90%;
+    }
+    .botao1{
+        font-size: 90%;
+    }
+    .botao2{
+            font-size: 90%;
+    }
+}
+@media screen and (max-width:600px){
+    header .container{
+        font-size: 70%;
+    }
+    .logo{
+        font-size: 70%;
+    }
+    .filme-principal{
+        height: 70%;
+    }
+    .filme-principal .container{
+        font-size: 70%;
+    }
+    h3{
+        font-size: 70%;
+    }
+    .botao1{
+        font-size: 50%;
+        padding: 50% 50%;
+        margin-right: 50%;
+        margin-bottom: 50%;
+    }
+    .botao2{
+            font-size: 50%;
+            padding: 50% 50%;
+            margin-right: 50%;
+            margin-bottom: 50%;
+    }
+}
